@@ -22,8 +22,6 @@ A beginner-friendly Python project that analyses a sample set of employee salari
 Sejal_Dakhare_GitHub_Ready/
 ├── numpy_project.ipynb
 ├── README.md
-└── requirements.txt
-```
 
 ## Installation
 
@@ -72,4 +70,3 @@ The notebook contains 15 sample salary values. They are illustrative values, not
 ## Author
 
 **Sejal Dakhare**
-
